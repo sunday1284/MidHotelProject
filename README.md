@@ -1,1 +1,1 @@
-# TripProject
+# MidHotelProject
